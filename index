@@ -1,0 +1,117 @@
+<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+    <title>Youngkyoung Kong</title>
+
+    <meta name="author" content="Youngkyoung Kong">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="images/favicon/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" type="text/css" href="stylesheet.css">
+    
+  </head>
+
+  <body>
+    <table style="width:100%;max-width:800px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+      <tr style="padding:0px">
+        <td style="padding:0px">
+          <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+            <tr style="padding:0px">
+              <td style="padding:2.5%;width:63%;vertical-align:middle">
+                <p class="name" style="text-align: center;">
+                  Youngkyoung Kong
+                </p>
+                <p>Hi, I'm a M.S./Ph.D. student at <a href="https://aerospace.snu.ac.kr/en">Department of Aerospace Engineering</a>, <a href="https://en.snu.ac.kr/">Seoul National University (SNU)</a>. Currently, I'm pursuing my research on robotics in <a href="https://larr.snu.ac.kr/">Lab for Autonomous Robotics Research</a> under the supervison of <a href="https://scholar.google.com/citations?user=TLQUwIMAAAAJ">Prof. H.Jin Kim</a></a>.
+		                  </p>
+                		<p>
+					I've received B.S. degree at Department of Mechanical and Aerospace Engineering (Aerospace Engineering Major), SNU</a>.
+                </p>
+                <p style="text-align:center">
+                  <a href="mailto:kong1543@snu.ac.kr">Email</a> &nbsp;/&nbsp;
+                  <a href="https://github.com/YoungkyoungKong/">Github</a> &nbsp;/&nbsp;
+		  <a href="https://www.linkedin.com/in/youngkyoung-kong-08508b231/">LinkedIn</a> &nbsp;/&nbsp;
+		  <a href="https://blog.naver.com/kong13561/">Blog(Korean)</a>
+                </p>
+              </td>
+              <td style="padding:2.5%;width:40%;max-width:40%">
+		<!-- <a href="images/ykkong.jpg"><img style="width:100%;max-width:100%" alt="profile photo" src="images/ykkong.jpg"></a> -->
+		<img style="width:80%;max-width:80%" src="images/ykkong.jpg" alt="profile photo">      
+	      </td>
+            </tr>
+          </tbody></table>
+          <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+		<h2>News</h2>
+		<tr>
+		    <td>
+			<ul>
+      			    <li><b>Sep. 2024</b>: Joined <a href="https://larr.snu.ac.kr//">LARR</a>!</li>
+    	                </ul>
+                        <br>                                                      
+		    </td>
+		</tr>
+	    </tbody></table>
+	    <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+		<h2>Publications</h2>
+		<br>
+		<tr>
+		    <td width="30%">
+			<img style="height: 100px; width: 250px; " src="images/tractor.jpg" border="0">
+		    </td>
+		    <td style="padding:20px;width:75%;vertical-align:middle">
+			<span class="papertitle">Tractor-Trailer Steering Control for Path Tracking with Linear Spatial Model Predictive Control</span>
+			<br>
+			Yongjae Lim, Sangyoon Kim,<strong>Youngkyoung Kong</strong>, Kyongsu Yi
+		        <br>
+			<em>Journal of Auto-vehicle Safety Association</em>, 2024 (expected)
+			<br>
+		    </td>
+		</tr>    
+	    </tbody></table>
+	    <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+		<br>
+		<br>
+		<h2>Projects</h2>
+		<br>
+		<tr>
+		    <td width="30%">
+			<img style="height: 100px; width: 250px; " src="images/mecanum_wheel.jpg" border="0">
+		    </td>
+		    <td style="padding:20px;width:75%;vertical-align:middle">
+			<span class="papertitle">Mecanum Wheel Mobile Base Control using 3D Rudder</span>
+			<br>
+			Designed mecanum wheel mobile base controller for ANA Avatar XPRIZE final competition 2022, Long Beach, California.
+		        <br>
+			<em>Dynamic Robotic Systems Laboratory, SNU</em>
+			<br>
+			Advised by <em>Prof. Jaeheung Park</em>, 2022.
+			<br>
+		    </td>
+		</tr>    
+	    </tbody></table>
+	    <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+		<br>
+	        <h2>Awards</h2>
+		<tr>
+		    <td>
+			<ul>
+      			    <li><b>Grand Prize(1st Place), Aerospace Technology Venture Competiion, <em>Korea Aerospace Research Institute (KARI)</em>, 2019</b>
+			    <br>
+			    Received KARI Presidential Award for an idea of the B2G business model to take tourists aerial shots at the attraction using unmanned-quadrotor system
+			    </li>
+				
+    	                </ul>
+                        <br>                                                      
+		    </td>
+		</tr>
+	    </tbody></table>
+
+	  
+  <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+  <p style="text-align:center;font-size:small;">
+                Template from <a style="font-size:small;" href="https://jonbarron.info">Jon Barron's website</a>
+  </p>
+  </tbody></table>
+</body>
+
+</html>

@@ -10,31 +10,47 @@
     <link rel="shortcut icon" href="images/favicon/favicon.ico" type="image/x-icon">
     <link rel="stylesheet" type="text/css" href="stylesheet.css">
     <style>
-    body {
-      counter-reset: U-counter;
-    }
-    ul.pub-list {
-      list-style: none;
-      margin: 0;
-      padding: 0;
-    }
-    ul.pub-list li.U {
-      counter-increment: U-counter;
-      /* 레이블 폭만큼 들여쓰기 + 텍스트 인덴트 조정 */
-      padding-left: 3.5em;    /* 3.5em 만큼 들여쓰기 */
-      text-indent: -3.5em;    /* 첫 줄만 레이블 위치로 당김 */
-      line-height: 1.4;       /* 줄간격 조정 (선택) */
-      position: relative;
-    }
-    ul.pub-list li.U::before {
-      content: "[U" counter(U-counter) "] ";
-      /* 레이블은 li 시작 위치에 고정 */
-      position: absolute;
-      left: 0;
-      width: 3em;             /* 대략 레이블 폭에 맞춰 */
-      /* font-weight, 색상 등 필요 시 추가 스타일 가능 */
-    }
-  </style>
+      body {
+        margin: 0;
+        padding: 0;
+        counter-reset: U-counter;
+      }
+      table {
+        width: 100%;
+        max-width: 800px;
+        border: 0;
+        border-spacing: 0;
+        border-collapse: separate;
+        margin: 0 auto;
+      }
+      h2 {
+        margin: 1em 0 0.5em;
+        padding: 0;
+      }
+      ul.pub-list {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+      }
+      ul.pub-list li.U {
+        counter-increment: U-counter;
+        /* 본문 시작 위치를 레이블 끝과 동일하게 맞춰주는 padding */
+        padding-left: 2.5em;
+        /* 줄간격은 필요에 따라 조절 */
+        line-height: 1.4;
+        position: relative;
+      }
+      ul.pub-list li.U::before {
+        /* [U1] 레이블 */
+        content: "[U" counter(U-counter) "]";
+        /* 레이블이 li의 왼쪽 2.5em 공간을 차지하도록 */
+        display: inline-block;
+        width: 2.5em;
+        /* 오른쪽 정렬해서 레이블 끝이 본문 시작 지점에 딱 붙음 */
+        text-align: right;
+        /* 레이블과 본문 사이에 약간의 간격을 주고 싶다면, content 뒤에 "\00a0" 추가 */
+      }
+    </style>
   </head>
 
   <body>
@@ -103,7 +119,7 @@
 			<ul class="pub-list">
 		          <li class="U">
 			    Iterative Residual Dynamic Mode Decomposition for Prediction and Control of Dynamical Systems<br>
-			    Youngkyoung Kong*</u></b>, Inkyu Jang* and H. Jin Kim<br>
+			    <u><b>Youngkyoung Kong*</u></b>, Inkyu Jang* and H. Jin Kim<br>
 			    Submitted to IEEE Conference on Decision and Control (CDC) 2025.
 			  </li>
     	                </ul>

@@ -9,6 +9,28 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="shortcut icon" href="images/favicon/favicon.ico" type="image/x-icon">
     <link rel="stylesheet" type="text/css" href="stylesheet.css">
+
+	  <style>
+		  ul.pub-list {
+		  list-style: none;            /* 기본 불릿 제거 */
+		  counter-reset: U-counter;    /* 카운터 초기화 */
+		  margin: 0;
+		  padding: 0;
+		}
+		ul.pub-list li {
+		  counter-increment: U-counter;  /* 항목마다 1씩 증가 */
+		  position: relative;            /* ::before 절대 배치 기준 */
+		  padding-left: 2.5em;           /* 레이블 공간 만큼 들여쓰기 */
+		  line-height: 1.4;
+		}
+		ul.pub-list li::before {
+		  content: "[U" counter(U-counter) "]";  /* [U1], [U2]… 생성 */
+		  display: inline-block;
+		  width: 2.5em;                         /* padding-left와 동일하게 */
+		  text-align: right;                    /* 레이블 끝이 본문 시작점에 맞춤 */
+		  /* 필요시 뒤에 "\00a0" 추가해 공백 더 줄 수 있음 */
+		}
+	  </style>
   </head>
 
   <body>
@@ -74,11 +96,13 @@
 		<h2>Publications</h2>
 		<tr>
 		    <td>
-			<ul>
+			<ul class-"pub-list">
 
-			    <li><b>Iterative Residual Dynamic Mode Decomposition for Prediction and Control of Dynamical Systems<br>
-			    <u><b>Youngkyoung Kong*</u></b>, Inkyu Jang* and H. Jin Kim<br>
-			    Submitted to IEEE Conference on Decision and Control (CDC) 2025.</li>
+			    <li>
+				    Iterative Residual Dynamic Mode Decomposition for Prediction and Control of Dynamical Systems<br>
+				    <u><b>Youngkyoung Kong*</u></b>, Inkyu Jang* and H. Jin Kim<br>
+				    Submitted to IEEE Conference on Decision and Control (CDC) 2025.
+			    </li>
 
     	                </ul>
                         <br>                                                      

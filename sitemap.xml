@@ -1,12 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://youngkyoungkong.github.io/</loc>
-  </url>
-  <url>
-    <loc>https://youngkyoungkong.github.io/files/iccas-2025.html</loc>
-  </url>
-  <url>
-    <loc>https://youngkyoungkong.github.io/files/iccas_2025_paper.pdf</loc>
-  </url>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://youngkyoungkong.github.io/</loc>
+</url>
+<url>
+<loc>https://youngkyoungkong.github.io/files/cdc-2026.html</loc>
+</url>
+<url>
+<loc>https://youngkyoungkong.github.io/cv/</loc>
+</url>
+<url>
+<loc>https://youngkyoungkong.github.io/files/iccas-2025.html</loc>
+</url>
+<url>
+<loc>https://youngkyoungkong.github.io/publications/</loc>
+</url>
+<url>
+<loc>https://youngkyoungkong.github.io/files/cdc2026_extended_ver.pdf</loc>
+<lastmod>2026-09-10T07:15:49+00:00</lastmod>
+</url>
+<url>
+<loc>https://youngkyoungkong.github.io/files/cdc_2025_oral.pdf</loc>
+<lastmod>2026-09-10T07:15:49+00:00</lastmod>
+</url>
+<url>
+<loc>https://youngkyoungkong.github.io/files/iccas_2025_oral.pdf</loc>
+<lastmod>2026-09-10T07:15:49+00:00</lastmod>
+</url>
+<url>
+<loc>https://youngkyoungkong.github.io/files/iccas_2025_paper.pdf</loc>
+<lastmod>2026-09-10T07:15:49+00:00</lastmod>
+</url>
+<url>
+<loc>https://youngkyoungkong.github.io/files/ifac_2026_oral.pdf</loc>
+<lastmod>2026-09-10T07:15:49+00:00</lastmod>
+</url>
+<url>
+<loc>https://youngkyoungkong.github.io/google11e6fdfeb94164a2.html</loc>
+<lastmod>2026-09-10T07:15:49+00:00</lastmod>
+</url>
 </urlset>

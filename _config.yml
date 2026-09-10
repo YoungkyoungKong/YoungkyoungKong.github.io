@@ -87,6 +87,7 @@ plugins:
   - jekyll-socials
   - al_folio_core
   - al_icons
+  - al_citations
 
 defaults:
   - scope:

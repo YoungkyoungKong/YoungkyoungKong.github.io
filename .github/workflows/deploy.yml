@@ -2,7 +2,7 @@ name: Deploy site
 
 on:
   push:
-    branches: [main]
+    branches: [main, al-folio-migration]
   pull_request:
     branches: [main]
   workflow_dispatch:

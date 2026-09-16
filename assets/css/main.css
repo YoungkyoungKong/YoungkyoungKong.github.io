@@ -8,9 +8,6 @@
  ******************************************************************************/
 /* Your project partials — convert these files to `@use "variables";`
    (or `@use "variables" as *;`) inside each file and qualify variables if needed. */
-/* Built-in Sass modules you’ll likely use across partials */
-/* Configure your design tokens BEFORE loading any of your partials.
-   Make sure `_sass/_variables.scss` declares `$max-content-width: 72rem !default;` */
 /*******************************************************************************
  * Themes
  ******************************************************************************/
@@ -196,9 +193,6 @@ html[data-theme-setting=light] #light-toggle-light {
   color: var(--global-theme-color);
 }
 
-/* Built-in Sass modules you’ll likely use across partials */
-/* Configure your design tokens BEFORE loading any of your partials.
-   Make sure `_sass/_variables.scss` declares `$max-content-width: 72rem !default;` */
 /******************************************************************************
  * Content
  ******************************************************************************/
@@ -238,9 +232,6 @@ body.sticky-bottom-footer {
 /*****************************************************************************
 * Projects
 *****************************************************************************/
-/* Built-in Sass modules you’ll likely use across partials */
-/* Configure your design tokens BEFORE loading any of your partials.
-   Make sure `_sass/_variables.scss` declares `$max-content-width: 72rem !default;` */
 /*******************************************************************************
  * Typography styles: Headings, text, links, tables, blockquotes
  ******************************************************************************/
@@ -365,9 +356,6 @@ blockquote.block-danger h6 {
   color: var(--global-danger-block-title);
 }
 
-/* Built-in Sass modules you’ll likely use across partials */
-/* Configure your design tokens BEFORE loading any of your partials.
-   Make sure `_sass/_variables.scss` declares `$max-content-width: 72rem !default;` */
 /*******************************************************************************
  * Navigation bar and header customization
  ******************************************************************************/
@@ -771,9 +759,6 @@ footer.sticky-bottom .container {
   text-decoration: none;
 }
 
-/* Built-in Sass modules you’ll likely use across partials */
-/* Configure your design tokens BEFORE loading any of your partials.
-   Make sure `_sass/_variables.scss` declares `$max-content-width: 72rem !default;` */
 /*******************************************************************************
  * Publication and bibliography styles
  ******************************************************************************/
@@ -1151,9 +1136,6 @@ ul.task-list input[type=checkbox] {
   position: relative;
 }
 
-/* Built-in Sass modules you’ll likely use across partials */
-/* Configure your design tokens BEFORE loading any of your partials.
-   Make sure `_sass/_variables.scss` declares `$max-content-width: 72rem !default;` */
 /*******************************************************************************
  * Utility styles: Code, forms, animations, modals, etc.
  ******************************************************************************/

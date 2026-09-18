@@ -7,7 +7,7 @@ subtitle:
 profile:
   align: right
   image: ykkong.jpg
-  image_circular: false
+  image_circular: true
 
 selected_papers: false
 social: false

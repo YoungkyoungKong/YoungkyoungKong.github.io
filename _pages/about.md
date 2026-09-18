@@ -2,15 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: M.S./Ph.D. Student, <a href="https://aerospace.snu.ac.kr/en">Department of Aerospace Engineering</a>, Seoul National University
+subtitle: Ph.D. Student, <a href="https://aerospace.snu.ac.kr/en">Department of Aerospace Engineering</a>, Seoul National University
 
 profile:
   align: right
   image: ykkong.jpg
-  image_circular: true
+  image_circular: false
 
-selected_papers: true
-social: true
+selected_papers: false
+social: false
 
 announcements:
   enabled: false
@@ -19,7 +19,7 @@ latest_posts:
   enabled: false
 ---
 
-I am an M.S./Ph.D. student in the [Department of Aerospace Engineering](https://aerospace.snu.ac.kr/en) at [Seoul National University](https://en.snu.ac.kr/). I conduct robotics research in the [Lab for Autonomous Robotics Research](https://larr.snu.ac.kr/) under the supervision of [Prof. H. Jin Kim](https://scholar.google.com/citations?user=TLQUwIMAAAAJ). I received my B.S. degree from the Department of Mechanical and Aerospace Engineering at Seoul National University.
+I am a Ph.D. student in the [Department of Aerospace Engineering](https://aerospace.snu.ac.kr/en) at [Seoul National University](https://en.snu.ac.kr/). I conduct robotics research in the [Lab for Autonomous Robotics Research](https://larr.snu.ac.kr/) under the supervision of [Prof. H. Jin Kim](https://scholar.google.com/citations?user=TLQUwIMAAAAJ). I received my B.S. degree from the Department of Mechanical and Aerospace Engineering at Seoul National University.
 
 ## Research Interests
 

@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. Student, <a href="https://aerospace.snu.ac.kr/en">Department of Aerospace Engineering</a>, Seoul National University
+subtitle:
 
 profile:
   align: right

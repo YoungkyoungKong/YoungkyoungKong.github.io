@@ -1,0 +1,13 @@
+/* Match the first and last name weights in the site header and page title. */
+.navbar-brand .font-weight-bold,
+.post-title .font-weight-bold {
+  font-weight: inherit !important;
+}
+
+/* Keep the profile portrait compact on desktop screens. */
+@media (min-width: 576px) {
+  .profile {
+    width: 22% !important;
+    max-width: 190px;
+  }
+}

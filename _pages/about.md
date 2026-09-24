@@ -20,7 +20,7 @@ latest_posts:
 ---
 
 I am a Ph.D. student in the [Department of Aerospace Engineering](https://aerospace.snu.ac.kr/en) at [Seoul National University](https://en.snu.ac.kr/). I conduct robotics research in the [Lab for Autonomous Robotics Research](https://larr.snu.ac.kr/) under the supervision of [Prof. H. Jin Kim](https://scholar.google.com/citations?user=TLQUwIMAAAAJ). I received my B.S. degree from the Department of Mechanical and Aerospace Engineering at Seoul National University.
-[Email](mailto:youngkyoung.kong@gmail.com)
+ - Email: youngkyoung.kong@gmail.com or kong1543@snu.ac.kr
 
 ## Research Interests
 

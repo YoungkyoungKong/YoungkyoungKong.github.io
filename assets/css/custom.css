@@ -7,6 +7,11 @@
 /* Keep the profile portrait compact on desktop screens. */
 @media (min-width: 576px) {
   .profile {
-    width: 40% !important;
+    width: 40%;
   }
+}
+
+/* Display the homepage navigation label as "About". */
+#navbar .nav-link[href="/"] {
+  text-transform: capitalize;
 }

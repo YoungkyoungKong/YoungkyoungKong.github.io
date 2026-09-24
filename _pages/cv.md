@@ -9,18 +9,11 @@ nav_order: 3
 
 ## Education
 
-### M.S./Ph.D. in Aerospace Engineering
+- **M.S./Ph.D. in Aerospace Engineering**, Seoul National University, September 2024–Present
+  - Advisor: Prof. H. Jin Kim
+  - Lab for Autonomous Robotics Research
 
-**Seoul National University**  
-Seoul, Republic of Korea · September 2024–Present
-
-- Advisor: Prof. H. Jin Kim
-- Lab for Autonomous Robotics Research
-
-### B.S. in Mechanical and Aerospace Engineering
-
-**Seoul National University**  
-Seoul, Republic of Korea · March 2018–August 2024
+- **B.S. in Mechanical and Aerospace Engineering**, Seoul National University, March 2018–August 2024
 
 ## Teaching Experience
 

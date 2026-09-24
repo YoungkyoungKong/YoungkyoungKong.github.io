@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: Publications by Youngkyoung Kong in reverse chronological order.
+description:
 nav: true
 nav_order: 2
 ---

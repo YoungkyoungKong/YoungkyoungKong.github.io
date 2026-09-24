@@ -14,7 +14,7 @@ icon: YK
 
 url: https://youngkyoungkong.github.io
 baseurl:
-last_updated: true
+last_updated: false
 back_to_top: true
 
 al_folio:
@@ -133,9 +133,9 @@ filtered_bibtex_keywords:
   - website
   - news
 
-max_author_limit: 6
+max_author_limit: 20
 more_authors_animation_delay: 10
-enable_publication_thumbnails: false
+enable_publication_thumbnails: true
 
 external_links:
   enabled: true

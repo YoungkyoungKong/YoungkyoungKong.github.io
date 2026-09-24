@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /cv/
-title: cv
-description: Teaching experience and awards.
+title: CV
+description:
 nav: true
 nav_order: 3
 ---

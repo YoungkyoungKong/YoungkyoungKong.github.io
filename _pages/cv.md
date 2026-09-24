@@ -15,5 +15,5 @@ nav_order: 3
 
 ## Awards
 
-**Grand Prize (1st Place), Aerospace Technology Venture Competition**, Korea Aerospace Research Institute (KARI), 2019  
+- **Grand Prize (1st Place), Aerospace Technology Venture Competition**, Korea Aerospace Research Institute (KARI), 2019  
 KARI Presidential Award for a B2G business model using unmanned quadrotor systems to capture aerial photographs of tourists at attractions.

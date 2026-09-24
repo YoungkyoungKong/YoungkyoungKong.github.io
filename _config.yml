@@ -26,7 +26,7 @@ al_folio:
     css_entry: assets/tailwind/app.css
   features:
     cv:
-      enabled: true
+      enabled: false
     distill:
       enabled: false
   compat:
@@ -88,7 +88,6 @@ plugins:
   - al_folio_core
   - al_icons
   - al_citations
-  - al_folio_cv
 
 defaults:
   - scope:

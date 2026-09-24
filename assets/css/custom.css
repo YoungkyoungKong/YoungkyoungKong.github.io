@@ -7,7 +7,6 @@
 /* Keep the profile portrait compact on desktop screens. */
 @media (min-width: 576px) {
   .profile {
-    width: 30% !important;
-    max-width: 190px;
+    width: 40% !important;
   }
 }

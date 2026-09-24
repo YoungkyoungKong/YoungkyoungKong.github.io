@@ -20,3 +20,17 @@
 .social .contact-icons {
   font-size: 2.5rem !important;
 }
+
+.email-line {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 1rem;
+}
+
+.email-line a {
+  color: var(--global-theme-color);
+  text-decoration: none;
+}
+
+.email-line a:hover {
+  text-decoration: underline;
+}

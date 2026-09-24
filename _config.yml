@@ -96,7 +96,7 @@ defaults:
       sitemap: false
 
 scholar:
-  last_name: [Kong]
+  last_name: [Kong, "Kong*"]
   first_name: [Youngkyoung]
   style: apa
   locale: en

@@ -13,5 +13,5 @@
 
 /* Display the homepage navigation label as "About". */
 #navbar .nav-link[href="/"] {
-  text-transform: capitalize;
+  text-transform: capitalize !important;
 }

@@ -29,4 +29,4 @@ I am a Ph.D. student in the [Department of Aerospace Engineering](https://aerosp
 
 ## Research Interests
 
-My research focuses on robust and safe decision-making with provable optimality guarantees for robotic systems at the intersection of online learning, reinforcement learning, and control theory. I am also interested in data-driven and operator-theoretic approaches to dynamical systems and neural architectures.
+My research focuses on online adaptation and learning for robotic systems operating in changing environments. I am interested in developing methods that enable deployed policies to adapt in real time to environmental changes and disturbances, without retraining or redesigning them from scratch, while providing guarantees on performance, robustness, and safety.

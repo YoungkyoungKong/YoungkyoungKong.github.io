@@ -4,11 +4,11 @@ middle_name:
 last_name: Kong
 contact_note: Feel free to contact me by email.
 description: >
-  Personal academic website of Youngkyoung Kong, a robotics and control researcher at Seoul National University.
+  Youngkyoung Kong studies online adaptation and learning for robotic systems in changing environments, with a focus on performance, robustness, and safety guarantees without retraining or redesigning deployed policies.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with the
   <a href="https://github.com/alshedivat/al-folio" target="_blank">al-folio</a> theme.
-keywords: robotics, control theory, online learning, reinforcement learning, optimization
+keywords: robotics, online learning, online adaptation, adaptive control, robust control, safe control
 lang: en
 icon: YK
 

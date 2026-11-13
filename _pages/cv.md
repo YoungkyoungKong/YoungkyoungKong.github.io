@@ -21,6 +21,13 @@ nav_order: 3
 - **Teaching Assistant**, Principles of Flight Vehicle Control (M2795.002600), Seoul National University, Spring 2026.
 - **Tutor**, Hands-On Course on Micro Drone Systems, Seoul National University Siheung Campus, Spring 2025 and 2026.
 
+## Academic Services
+
+- **Reviewer**
+  - IEEE International Conference on Robotics and Automation (ICRA)
+  - IEEE Conference on Decision and Control (CDC)
+  - IFAC World Congress (IFAC WC)
+
 ## Awards
 
 - **Grand Prize (1st Place), Aerospace Technology Venture Competition**, Korea Aerospace Research Institute (KARI), 2019.
